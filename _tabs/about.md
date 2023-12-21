@@ -17,7 +17,7 @@ My name is **Lý Trí Đức**, pronounced as _Lee Tree Duke_, though I'm happy 
 
 **Blee** is my corner of the internet, where I'll share to the world about what I find interesting. The name _Blee_ is the result of my lack of creativity and combination between _blog_ and _Lee_.
 
-I am not a good writer, not an experienced blogger and doesn't have English as my first language. However, I find no harm in having fun while practice writing, which is why I decided to write blog. Blogging is a hobby that I recently picked up; I also write Vietnamese blog in the Vietnamese version of _Blee_ - [BleeVN](bleevn.github.io).
+I am not a good writer, not an experienced blogger and doesn't have English as my first language. However, I find no harm in having fun while practice writing, which is why I decided to write blog. Blogging is a hobby that I recently picked up; I also write Vietnamese blog in the Vietnamese version of _Blee_ - [BleeVN](https://bleevn.github.io).
 
 As for the content on the website, a lot of what I write will be related to **Artificial Intelligence**, **Psychology** and **Music** as those are my fields of interest. Though, the content will of course not be limited to such topics.
 
